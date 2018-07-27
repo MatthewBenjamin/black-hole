@@ -1,0 +1,19 @@
+{
+  "name": "black-hole",
+  "version": "0.0.1",
+  "description": "A way to allow micro apps to fuse together into a working SPA.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caryyon/black-hole.git"
+  },
+  "author": "Cary Wolff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caryyon/black-hole/issues"
+  },
+  "homepage": "https://github.com/Caryyon/black-hole#readme"
+}
