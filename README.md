@@ -1,6 +1,6 @@
 # black-hole
 
-the idea is to utilize graphql or maybe just http requests to summon React portals that allow for the next micro app to be loaded with in an overseeing application shell.
+the idea is to utilize graphql or maybe just http requests to summon React portals that allow for the next micro app to be loaded within an overseeing application shell.
 
 black-hole(app shell) > REST/graphQL > react portal > micro app
 
@@ -12,3 +12,6 @@ the App shell would also have it's own requests through REST/GraphQL to inject S
 
 the micro apps would need to probably have some configuration on how and what to serve depending on the app shell's global state???
 (still don't know what would all need to change, but i'm thinking not that much.)
+
+## Disclaimer
+I'm just throwing this stuff down here and plan to build on it later. I think there is a way to make this work it's just going to come from hard work and a lot of testing.
