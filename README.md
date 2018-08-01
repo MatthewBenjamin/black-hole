@@ -15,3 +15,10 @@ the micro apps would need to probably have some configuration on how and what to
 
 ## Disclaimer
 I'm just throwing this stuff down here and plan to build on it later. I think there is a way to make this work it's just going to come from hard work and a lot of testing.
+
+## The Start
+
+* Get server setup for testing
+* Setup graphql root schema
+* Start working on getting App Shell base built
+* Look into iframes and react portals
